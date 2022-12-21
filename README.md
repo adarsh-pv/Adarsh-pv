@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on a **Social Media App**
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **aswanthek1@gmail.com, 9656834559**
